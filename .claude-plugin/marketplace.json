@@ -1,0 +1,13 @@
+{
+  "name": "omniroute-marketplace",
+  "owner": {
+    "name": "RiseGenie"
+  },
+  "plugins": [
+    {
+      "name": "omniroute",
+      "source": "./",
+      "description": "OmniRoute agent skills: CLI and API guides for routing, providers, combos, compression, MCP/A2A, caching, and more."
+    }
+  ]
+}
